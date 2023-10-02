@@ -3,3 +3,4 @@ git push <remote> <branche>
 git push –all <remote>
 git clone *url du repository*
 git pull <options> 
+git branch *nom de la branche*
